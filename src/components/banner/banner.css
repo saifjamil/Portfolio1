@@ -1,0 +1,77 @@
+#banner {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: #FDFCF6;}
+
+.lefted-img {
+    display: flex;
+    margin-bottom: 50px !important;
+}
+.lefted-img .vecimg{
+    width: 500px;
+}
+
+.lefted-img .arro {
+    width: 50px;
+    height: 25px;
+    transform: rotate(-30deg);
+    margin-top: 30px;
+    margin-left: 5px;
+
+}
+
+.name-top .nknm {
+    width: 35px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    background-color: pink;
+    transform: rotate(-10deg);
+    font-family: "Handlee", cursive !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+
+.ban-left h2 {
+    margin-top: 35px;
+    font-family: "Handlee", cursive;
+    font-weight: 600;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+
+}
+
+.ban-right {
+    padding-top: 150px;
+}
+
+.ban-right p {
+    margin-top: 20px;
+    font-family: "Handlee", cursive;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    line-height: 50px;
+}
+
+.ban-right a {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-family: "Handlee", cursive;
+    text-transform: capitalize;
+    border-radius: 5px;
+    transition: 0.5s;
+    border: 2px solid #F384D4;
+    color: #222;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
+
+
+
+}
+
+.ban-right a:hover {
+    background-color: #FFC9F0;
+    color: #222;
+
+}

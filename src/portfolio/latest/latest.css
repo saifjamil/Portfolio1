@@ -1,0 +1,71 @@
+#latest{
+    padding-top: 100px;
+    padding-bottom: 120px;
+    background-color: #FDFCF6;
+}
+.latest-top{
+    text-align: center;
+}
+.latest-top h2{
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+    margin-bottom: 50px;
+    color: #F384D4;
+}
+.leftone{
+    width: 400px;
+    height: 200px;
+    border: 2px solid #FFC9F0;
+    border-radius: 5px;
+    position: relative;
+    cursor: pointer;
+    margin-top: 20px;
+
+
+}
+.leftone::after{
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 0%;
+    left: 0;
+    top: 0;
+    transition: 0.5s;
+    background: linear-gradient(329deg, #FFC9F0 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+}
+.leftone:hover::after{
+    width: 100%;
+}
+.leftone img{
+    width: 100%;
+    height: 100%;
+}
+.lefttwo{
+    width: 400px;
+    height: 200px;
+    border: 2px solid #FFC9F0;
+    margin-top: 20px;
+    border-radius: 5px;
+    position: relative;
+    cursor: pointer;
+}
+.lefttwo::after{
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 0%;
+    left: 0;
+    top: 0;
+    transition: 0.5s;
+    background: linear-gradient(329deg, #FFC9F0 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+}
+.lefttwo:hover::after{
+    width: 100%;
+}
+
+.lefttwo img{
+    width: 100%;
+    height: 100%;
+
+
+}

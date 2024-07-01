@@ -1,0 +1,97 @@
+#about{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: #FDFCF6;
+}
+.main {
+    position: relative;
+    text-align: center !important;
+
+}
+.main-one{
+    background-color: #FFC9F0;
+    display: flex;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+.nexti {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    line-height: 35px;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    background-color: #F384D4;
+    position: absolute;
+    top:50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+.agabe1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    line-height: 35px;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    background-color: #F384D4;
+    position: absolute;
+    top:50%;
+    left: 20px;
+    z-index: 1;
+    transform: translateY(-50%);
+
+}
+.slick-dots{
+    display: flex !important;
+    position: absolute;
+    left: 49%;
+    bottom: -49px;
+    transform: translateX(-55%);
+}
+.slick-dots li{
+    display: inline-block;
+
+
+}
+.slick-dots li button{
+    width: 10px;
+    height: 10px;
+    border: 2px solid #F384D4;
+    background-color: #FFF;
+    border-radius: 50%;
+    color: transparent;
+    margin-right: 5px;
+}
+.ab-head{
+    font-size: 50px;
+    font-family: "Handlee", cursive;
+    font-weight: 600;
+    margin-bottom: 120px;
+    text-align: center;
+}
+.text{
+    margin-left: 15px;
+}
+.main-one h2{
+    font-size: 20px;
+    padding-top: 30px;
+    font-family: "Handlee", cursive;
+}
+
+.main-one a{
+    padding: 10px 15px;
+    color: #222;
+    border-radius: 10px;
+    border: 2px solid #FFC9F0;
+    transition: 0.5s;
+}
+.main-one a:hover{
+    background-color: #FFC9F0;
+}

@@ -1,0 +1,53 @@
+#work{
+    padding-top: 205px;
+    padding-bottom: 100px;
+    background-color: #FDFCF6;
+}
+.work-text {
+    padding-top: 50px;
+}
+
+.work-text h3 {
+    width: 300px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    font-family: "Handlee", cursive;
+    font-size: 35px;
+    background-color: #FFC9F0;
+
+}
+
+.work-text img {
+    margin-top: 20px;
+    margin-left: 240px;
+}
+
+.work-text p {
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+    margin-top: 30px;
+
+}
+
+.work-one-text {
+    display: flex;
+    margin-bottom: 32px;
+}
+
+.wo-left img {
+    margin-right: 35px;
+}
+.wo-right h4{
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+}
+.wo-right h6{
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+
+}
+.wo-right p{
+    font-size: 16px;
+    color: #706F6F;
+}

@@ -1,0 +1,128 @@
+#from {
+    padding-top: 130px;
+    padding-bottom: 120px;
+    background-color: #FDFCF6;
+}
+
+.cont-text {
+    padding-top: 99px;
+
+}
+
+.cont-text h3 {
+    width: 300px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    font-family: "Handlee", cursive;
+    font-size: 35px;
+    background-color: #FFC9F0;
+
+}
+
+.cont-text img {
+    margin-top: 20px;
+    margin-left: 240px;
+}
+
+.cont-text p {
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+    margin-top: 30px;
+
+}
+
+.from {
+    margin-top: 60px;
+}
+
+.name {
+    display: flex;
+}
+
+.name p {
+    width: 150px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 30px;
+    text-align: center;
+    background-color: #EECD56;
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+}
+
+.name input {
+    font-size: 30px;
+    border: none !important;
+    width: 200px;
+    height: 40px;
+    height: 60px;
+    line-height: 60px;
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.mail {
+    display: flex;
+}
+
+.mail p {
+    width: 180px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background-color: #5AB5E8;
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+}
+
+.mail input {
+    border: none !important;
+    width: 200px;
+    height: 40px;
+    height: 60px;
+    line-height: 60px;
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.about {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.about p {
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background-color: #FFC9F0;
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+}
+
+.about input {
+    border: none !important;
+    width: 320px;
+    height: 60px;
+    line-height: 60px;
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.from a {
+    padding: 15px 25px;
+    color: #222;
+    border: 2px solid #F384D4;
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+    transition: 0.5s;
+}
+
+.from a:hover {
+    background-color: #F384D4;
+    color: #fff;
+}

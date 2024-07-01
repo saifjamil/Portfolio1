@@ -1,0 +1,149 @@
+#what {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #FDFCF6;
+}
+
+.what-text {
+    width: 90px;
+    line-height: 30px;
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+    background-color: #FFC9F0;
+    font-family: "Handlee", cursive;
+    margin-bottom: 20px;
+}
+
+.one {
+    width: 370px;
+    padding-top: 152px;
+    padding-left: 55px;
+    padding-bottom: 125px;
+    border-radius: 10px;
+    text-align: start;
+    position: relative;
+    margin: 30px auto 0;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    transition: .3s;
+    transform: rotate(-10deg) translateX(20px);
+    border: 2px solid #EECD56;
+    background-color: #FFE68C;
+}
+
+.one .top {
+    position: absolute;
+    top: 80px;
+    right: -20px;
+    font-family: "Handlee", cursive;
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #9DDCFF;
+}
+
+.one p {
+    font-family: "Handlee", cursive;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.one:hover {
+    box-shadow: 0px 20px 40px rgb(243, 236, 22);
+    transform: scale(1.05, 1.05);
+}
+
+
+.two {
+    width: 370px;
+    padding-top: 152px;
+    padding-left: 55px;
+    padding-bottom: 125px;
+    border-radius: 10px;
+    text-align: start;
+    position: relative;
+    margin: 30px auto 0;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    transition: .3s;
+    transform: rotate(10deg) translateX(20px);
+    border: 2px solid #5AB5E8;
+    background-color: #9DDCFF;
+}
+
+.two .toptwo {
+    position: absolute;
+    top: -15px;
+    right: 40px;
+    font-family: "Handlee", cursive;
+    width: 90px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #FFC9F0;
+}
+
+.two p {
+    font-family: "Handlee", cursive;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.two:hover {
+    box-shadow: 0px 20px 40px rgb(101, 130, 245);
+    transform: scale(1.05, 1.05);
+}
+
+
+.three {
+    width: 370px;
+    padding-top: 152px;
+    padding-left: 55px;
+    padding-bottom: 125px;
+    border-radius: 10px;
+    text-align: start;
+    position: relative;
+    margin: 30px auto 0;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    transition: .3s;
+    transform: rotate(-10deg) translateX(20px);
+    border: 2px solid #F384D4;
+    background-color: #FFC9F0;
+
+}
+
+.three .topthree {
+    position: absolute;
+    top: 80px;
+    right: -20px;
+    font-family: "Handlee", cursive;
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #FFE68C;
+}
+
+.three p {
+    font-family: "Handlee", cursive;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.three:hover {
+    box-shadow: 0px 20px 40px rgb(249, 88, 220);
+    transform: scale(1.05, 1.05);
+}
+
+.crds-three p {
+    font-family: "Handlee", cursive;
+
+}
+
+.card img {
+    width: 49px;
+    height: 55px;
+}

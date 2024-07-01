@@ -1,0 +1,32 @@
+#name {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    background-color: #FDFCF6;
+}
+
+.namehead {
+    font-size: 58px;
+}
+
+.namehead span {
+    color: #DB4A90;
+}
+
+.topname {
+    font-size: 25px !important;
+    font-family: "Handlee", cursive;
+    margin-top: 10px;
+    color: #DB4A90;
+}
+
+.icons {
+    margin-top: 140px;
+}
+
+.icons a {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #464343;
+    font-size: 35px;
+}

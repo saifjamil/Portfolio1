@@ -1,0 +1,57 @@
+#skills {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+    background-color: #FDFCF6;
+}
+.skill-top h2{
+    font-family: "Handlee", cursive;
+    color: #DB4A90;
+}
+.skill-top p{
+    font-family: "Handlee", cursive;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.skill-bottom {
+    margin-top: 50px;
+    display: flex;
+    gap: 55px;
+    text-align: center !important;
+}
+
+.skill-item {
+    text-align: center;
+}
+
+.skill-inner {
+    padding: 50px;
+    text-align: center;
+    background-color: #FFC9F0;
+    box-shadow: 2px 4px 25px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.skill-inner:hover {
+    background-color: #DB4A90;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.4);
+    transform: scale(1.05, 1.05);
+}
+
+.skill-inner img {
+    width: 70px;
+}
+
+.inner-top .number {
+    margin-top: 15px;
+    font-family: "Handlee", cursive;
+}
+
+.skill-item p {
+    margin-top: 25px;
+    font-family: "Handlee", cursive;
+    letter-spacing: 2px;
+}

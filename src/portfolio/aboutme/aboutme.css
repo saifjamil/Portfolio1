@@ -1,0 +1,76 @@
+#aboutme {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: #FDFCF6;}
+
+.list {
+    display: flex;
+}
+
+.left-img {
+    width: 570px;
+    height: 700px;
+}
+
+.left-img img {
+    width: 100%;
+    height: 110%;
+    border-radius: 10px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+
+
+.left-img img:hover {
+    box-shadow: 0px 20px 40px rgba(65, 47, 64, 0.4);
+    transform: scale(1.05, 1.05);
+}
+
+.namelist {
+    margin-top: 50px;
+}
+
+.me-head {
+    margin-top: 65px;
+}
+
+.me-head h3 {
+    font-family: "Handlee", cursive;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    font-style: bold;
+    margin-bottom: 30px;
+    color: #DB4A90;
+}
+
+.me-head h2 {
+    font-family: "Handlee", cursive;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.me-head p {
+    font-family: "Handlee", cursive;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+.namelist h5 {
+    font-size: 30px;
+    font-family: "Handlee", cursive;
+    text-align: start;
+    color: #480b37;
+}
+
+.namelist span {
+    font-family: "Handlee", cursive;
+    letter-spacing: 2px;
+}
+
+.list-right {
+    margin-left: 35px;
+}
